@@ -8,24 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Thisnas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Desktop\\сергеев\\Calculators\\CalculatorBasic\\CalculatorBasic.csproj",
+      "projectUniqueName": "C:\\Users\\Thisnas\\Source\\Repos\\C-_Calculators\\CalculatorBasic\\CalculatorBasic.csproj",
       "projectName": "CalculatorBasic",
-      "projectPath": "C:\\Users\\Student\\Desktop\\сергеев\\Calculators\\CalculatorBasic\\CalculatorBasic.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Desktop\\сергеев\\Calculators\\CalculatorBasic\\obj\\",
+      "projectPath": "C:\\Users\\Thisnas\\Source\\Repos\\C-_Calculators\\CalculatorBasic\\CalculatorBasic.csproj",
+      "packagesPath": "C:\\Users\\Thisnas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Thisnas\\Source\\Repos\\C-_Calculators\\CalculatorBasic\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Thisnas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
