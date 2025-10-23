@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\CalculatorBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\CalculatorBasic.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\CalculatorBasic.AssemblyInfo.cs
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\CalculatorBasic.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\bin\Debug\net9.0\CalculatorBasic.exe
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\bin\Debug\net9.0\CalculatorBasic.deps.json
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\bin\Debug\net9.0\CalculatorBasic.runtimeconfig.json
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\bin\Debug\net9.0\CalculatorBasic.dll
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\bin\Debug\net9.0\CalculatorBasic.pdb
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\CalculatorBasic.dll
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\refint\CalculatorBasic.dll
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\CalculatorBasic.pdb
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\CalculatorBasic.genruntimeconfig.cache
+C:\Users\Student\Desktop\сергеев\Calculators\CalculatorBasic\obj\Debug\net9.0\ref\CalculatorBasic.dll
