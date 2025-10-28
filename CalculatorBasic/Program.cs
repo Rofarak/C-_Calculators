@@ -1,7 +1,7 @@
-﻿using CalculatorBasic.Interface;
-using CalculatorBasic.Classes;
+﻿using CalculatorBasic.BasicCalculator.Interface;
+using CalculatorBasic.BasicCalculator.Classes;
 while (true) {
-    ICalculatorBasic _calc = new calculator();
+    ICalculatorBasic _Bcalc = new BasicCalculator();
     Console.WriteLine("did you want yo use app?");
     var answer = Console.ReadLine().Trim().ToLower();
     if (answer == "yes")
@@ -15,25 +15,25 @@ while (true) {
         Console.Write("Write your second number: ");
         second_number = Convert.ToSingle(Console.ReadLine());
 
-        Console.Write("What do you want to do? (write: *, +, -, /");
+        Console.Write("What do you want to do? (write: *, +, -, /):");
         sign = Convert.ToChar(Console.ReadLine());
 
 
         if (sign == '*')
         {
-            Console.WriteLine(_calc.multiplication(first_number, second_number));
+            Console.WriteLine(_Bcalc.multiplication(first_number, second_number));
         }
         else if (sign == '+')
         {
-            Console.WriteLine(_calc.Addition(first_number, second_number));
+            Console.WriteLine(_Bcalc.Addition(first_number, second_number));
         }
         else if (sign == '-')
         {
-            Console.WriteLine(_calc.substaction(first_number, second_number));
+            Console.WriteLine(_Bcalc.substaction(first_number, second_number));
         }
         else if (sign == '/')
         {
-            Console.WriteLine(_calc.Divetion(first_number, second_number));
+            Console.WriteLine(_Bcalc.Divetion(first_number, second_number));
         }
         else
         {

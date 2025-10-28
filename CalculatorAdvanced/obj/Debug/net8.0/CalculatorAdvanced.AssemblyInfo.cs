@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CalculatorBasic")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CalculatorAdvanced")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba634a88a86d2e7c33dc331b6c156ec95f989da0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CalculatorBasic")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CalculatorBasic")]
+[assembly: System.Reflection.AssemblyProductAttribute("CalculatorAdvanced")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CalculatorAdvanced")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

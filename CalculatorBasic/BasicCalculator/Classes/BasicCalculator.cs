@@ -1,32 +1,33 @@
-﻿using CalculatorBasic.Interface;
+﻿using CalculatorBasic.BasicCalculator.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalculatorBasic.Classes
+namespace CalculatorBasic.BasicCalculator.Classes
 {
-    public class calculator : ICalculatorBasic
+    public class BasicCalculator : ICalculatorBasic
     {
         public double Addition(double value1, double value2)
         {
-            return (value1 + value2);
+            return value1 + value2;
         }
 
         public double Divetion(double value1, double value2)
         {
-            return (value1 / value2);
+            return value1 / value2;
         }
 
         public double multiplication(double value1, double value2)
+
         {
-            return (value1 * value2);
+            return value1 * value2;
         }
 
         public double substaction(double value1, double value2)
         {
-            return (value1 - value2);
+            return value1 - value2;
         }
     }
 }

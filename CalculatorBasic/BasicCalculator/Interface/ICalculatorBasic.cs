@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalculatorBasic.Interface
+namespace CalculatorBasic.BasicCalculator.Interface
 {
     public interface ICalculatorBasic
     {

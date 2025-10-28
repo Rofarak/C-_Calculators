@@ -1,0 +1,5 @@
+C:\Users\Student\Source\Repos\C-_Calculators\CalculatorAdvanced\obj\Debug\net8.0\CalculatorAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\C-_Calculators\CalculatorAdvanced\obj\Debug\net8.0\CalculatorAdvanced.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\C-_Calculators\CalculatorAdvanced\obj\Debug\net8.0\CalculatorAdvanced.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\C-_Calculators\CalculatorAdvanced\obj\Debug\net8.0\CalculatorAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\C-_Calculators\CalculatorAdvanced\obj\Debug\net8.0\CalculatorAdvanced.sourcelink.json
